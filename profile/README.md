@@ -28,7 +28,7 @@ Love our mission and work? Should you wish to contribute to any of our projects,
 ## Featured Projects
 The following projects are projects Syslifters has, and continues to, sponsor and support. We hope you find them useful! Feedback is very welcome!
 
-### SysReptor: Easy and customisable pentest report creator based on simple web technologies.
+### SysReptor: Easy and customisable pentest report creator based on simple web technologies
 <p>
 <a href="https://github.com/syslifters/sysreptor/">
     <img src="https://img.shields.io/github/stars/Syslifters/sysreptor?color=yellow&style=flat-square">
