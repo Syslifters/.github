@@ -46,7 +46,7 @@ The following projects are projects Syslifters has, and continues to, sponsor an
     <img src="https://img.shields.io/twitter/follow/sysreptor?style=social">
 </a>
 </p>
-SysReptor is a fully customisable, offensive security reporting tool designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click, in the cloud or on-premise!
+SysReptor is a fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click, in the cloud or self-hosted!
 
 ### OffSec Reporting: Offensive Security Reporting using SysReptor
 <p>
