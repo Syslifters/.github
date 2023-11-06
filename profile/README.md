@@ -48,7 +48,7 @@ The following projects are projects Syslifters has, and continues to, sponsor an
 </p>
 SysReptor is a fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click, in the cloud or self-hosted!
 
-### HackTheBox Reporting using SysReptor: CPTS, CHHB, CDSA
+### Hack The Box Reporting using SysReptor: CPTS, CHHB, CDSA
 <p>
 <a href="https://github.com/syslifters/HackTheBox-Reporting/">
     <img src="https://img.shields.io/github/stars/Syslifters/HackTheBox-Reporting?color=yellow&style=flat-square">
