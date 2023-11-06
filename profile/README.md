@@ -28,7 +28,7 @@ Love our mission and work? Should you wish to contribute to any of our projects,
 ## Featured Projects
 The following projects are projects Syslifters has, and continues to, sponsor and support. We hope you find them useful! Feedback is very welcome!
 
-### SysReptor: Easy and customisable pentest report creator based on simple web technologies
+### SysReptor: Pentest Reporting made easy. Design in HTML, Write in Markdown, Render to PDF. Self-hosted or Cloud.
 <p>
 <a href="https://github.com/syslifters/sysreptor/">
     <img src="https://img.shields.io/github/stars/Syslifters/sysreptor?color=yellow&style=flat-square">
@@ -48,13 +48,21 @@ The following projects are projects Syslifters has, and continues to, sponsor an
 </p>
 SysReptor is a fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click, in the cloud or self-hosted!
 
-### OffSec Reporting: Offensive Security Reporting using SysReptor
+### HackTheBox Reporting using SysReptor: CPTS, CHHB, CDSA
+<p>
+<a href="https://github.com/syslifters/HackTheBox-Reporting/">
+    <img src="https://img.shields.io/github/stars/Syslifters/HackTheBox-Reporting?color=yellow&style=flat-square">
+</a>
+</p>
+This is our HTB reporting repository showcasing Hack The Box reports created with SysReptor. Write your Hack The Box CPTS, CHHB or CDSA reports. Sign up, it's free!
+
+### OffSec Reporting using SysReptor: OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA
 <p>
 <a href="https://github.com/syslifters/OffSec-Reporting/">
     <img src="https://img.shields.io/github/stars/Syslifters/OffSec-Reporting?color=yellow&style=flat-square">
 </a>
 </p>
-This is our dedicated OffSec reporting repository that showcases various types of OffSec report designs created with SysReptor. We have designed various OffSec Lab and Exam Report Templates fully customizable of course. Try it out and use SysReptor for free to write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports.
+This is our OffSec reporting repository showcasing OffSec reports created with SysReptor. Write your OffSec OSCP, OSWP, OSEP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA reports. Sign up, it's free!
 
 ### OffSec Tools: Compiled tools for internal assessments
 <p>
