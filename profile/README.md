@@ -28,7 +28,7 @@ Love our mission and work? Should you wish to contribute to any of our projects,
 ## Featured Projects
 The following projects are projects Syslifters has, and continues to, sponsor and support. We hope you find them useful! Feedback is very welcome!
 
-### SysReptor: Pentest Reporting made easy. Design in HTML, Write in Markdown, Render to PDF. Self-hosted or Cloud.
+### SysReptor: Pentest Reporting made easy
 <p>
 <a href="https://github.com/syslifters/sysreptor/">
     <img src="https://img.shields.io/github/stars/Syslifters/sysreptor?color=yellow&style=flat-square">
