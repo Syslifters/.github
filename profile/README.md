@@ -1,3 +1,7 @@
+<h3 align="center">
+    <a href="https://syslifters.com/"><img src="/profile/Banner-Syslifters.svg" width="100%" alt="Syslifters"></a>
+</h3>
+
 <h1 align="center"> Hi 👋, We are the Syslifters!</h1>
 <h4 align="center">Cybersecurity Company dedicated to Pentests - Hacking, Projects, and More</h4>
 <p align="center">
@@ -83,5 +87,5 @@ This repository is intended for pentesters and red teamers using a variety of of
 
 <br><br>
 <h1 align="center">
-    <a href="https://docs.sysreptor.com/"><img src="/profile/Tower_Syslifters.svg" width="30%" alt="Syslifters"></a>
+    <a href="https://syslifters.com/"><img src="/profile/Tower_Syslifters.svg" width="30%" alt="Syslifters"></a>
 </h1>
