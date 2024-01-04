@@ -87,5 +87,5 @@ This repository is intended for pentesters and red teamers using a variety of of
 
 <br><br>
 <h1 align="center">
-    <a href="https://syslifters.com/"><img src="/profile/Tower_Syslifters.svg" width="30%" alt="Syslifters"></a>
+    <a href="https://syslifters.com/"><img src="/profile/Tower_Syslifters.svg" width="100%" alt="Syslifters"></a>
 </h1>
