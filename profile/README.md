@@ -1,5 +1,5 @@
 <h3 align="center">
-    <a href="https://syslifters.com/"><img src="/profile/Banner-Syslifters.svg" width="100%" alt="Syslifters"></a>
+    <a href="https://syslifters.com/"><img src="/profile/Banner-Syslifter.svg" width="100%" alt="Syslifters"></a>
 </h3>
 
 <h1 align="center"> Hi 👋, We are the Syslifters!</h1>
