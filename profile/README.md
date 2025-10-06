@@ -24,10 +24,12 @@
 </p>
 
 ---
-At Syslifters, we are on a mission to sustainably improve security in organisations 🚀. We are a start-up security company fully dedicated to pentests. Our specialisations are internal enterprise networks and web applications. We also build tools for pentesters, red teamers and other security-related people alike. Our expertise is the result of a solid education in IT security, many years of experience in penetration testing and cooperation and exchange with the best security talents in Europe.
+At Syslifters, we are on a mission to sustainably improve security in organisations. We are a start-up security company fully dedicated to pentests. Our specialisations are internal enterprise networks and web applications. We also build tools for pentesters, red teamers and other security-related people alike. Our expertise is the result of a solid education in IT security, many years of experience in penetration testing and cooperation and exchange with the best security talents in Europe.
 
 ## Support Us ❤️ 
-Love our mission and work? Should you wish to contribute to any of our projects, we would be delighted to collaborate with you, meticulously improving your pull requests until they reach a state of near perfection. Oh, and if you could show us some love by following us on Twitter and Linkedin, that would be amazing! 🙌
+Love our mission and work? Connect with us on [LinkedIn](https://www.linkedin.com/company/syslifters)!
+
+Also, should you wish to contribute to any of our projects, feel free to submit your pull requests. We’d be happy to collaborate with you and help refine them together. Thx 🙌 
 
 ## Featured Projects
 The following projects are projects Syslifters has, and continues to, sponsor and support. We hope you find them useful! Feedback is very welcome!
