@@ -58,7 +58,7 @@ SysReptor is a fully customizable pentest reporting platform designed for penetr
     <img src="https://img.shields.io/github/stars/Syslifters/HackTheBox-Reporting?color=yellow&style=flat-square">
 </a>
 </p>
-This is our HTB reporting repository showcasing Hack The Box reports created with SysReptor. Write your Hack The Box CPTS, CHHB, CDSA, CWEE, CAPE or CJCA reports. Sign up, it's free!
+This repository showcases Hack The Box (HTB) report templates built with SysReptor, a fully customizable pentest reporting platform. Supported certifications: CPTS, CHHB, CDSA, CWEE, CAPE, CJCA. Sign up, it's free!
 
 ### OffSec Reporting using SysReptor: OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH
 <p>
