@@ -32,7 +32,7 @@ Love our mission and work? Connect with us on [LinkedIn](https://www.linkedin.co
 Also, should you wish to contribute to any of our projects, feel free to submit your pull requests. We’d be happy to collaborate with you and help refine them together. Thx 🙌 
 
 ## Featured Projects
-The following projects are projects Syslifters has, and continues to, sponsor and support. We hope you find them useful! Feedback is very welcome!
+The following projects are projects Syslifters has, and continues to, sponsor and support. We hope you find them useful!
 
 ### SysReptor: Pentest Reporting made easy
 <p>
