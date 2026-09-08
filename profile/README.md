@@ -62,13 +62,13 @@ SysReptor is a fully customizable pentest reporting platform designed for penetr
 </p>
 This repository showcases Hack The Box (HTB) report templates built with SysReptor, a fully customizable pentest reporting platform. Supported certifications: CPTS, CWES, CDSA, CWEE, CAPE, CJCA. Sign up, it's free!
 
-### OffSec Reporting using SysReptor: OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH
+### OffSec Reporting using SysReptor: OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH, OSAI
 <p>
 <a href="https://github.com/syslifters/OffSec-Reporting/">
     <img src="https://img.shields.io/github/stars/Syslifters/OffSec-Reporting?color=yellow&style=flat-square">
 </a>
 </p>
-This repository showcases OffSec report templates built with SysReptor, a fully customizable pentest reporting platform. Supported certifications: OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH. Sign up, it's free!
+This repository showcases OffSec report templates built with SysReptor, a fully customizable pentest reporting platform. Supported certifications: OSCP+, OSEP, OSWP, OSWA, OSWE, OSED, OSMR, OSEE, OSDA, OSIR, OSTH, OSAI. Sign up, it's free!
 
 ### OffSec Tools: Compiled tools for internal assessments
 <p>
