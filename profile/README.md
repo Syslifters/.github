@@ -54,7 +54,7 @@ The following projects are projects Syslifters has, and continues to, sponsor an
 </p>
 SysReptor is a fully customizable pentest reporting platform designed for penetration testers, red teamers, and other cybersecurity professionals. Simplify, customize, and automate your pentest reports with ease. You can create designs based on simple HTML and CSS, write your reports in user-friendly Markdown and convert them to PDF with just a single click, in the cloud or self-hosted!
 
-### Hack The Box Reporting using SysReptor: CPTS, CWES, CDSA, CWEE, CAPE, CJCA
+### Hack The Box Reporting using SysReptor: CPTS, CWES, CDSA, CWEE, CAPE, CJCA, CWPE, COAE, CDEP
 <p>
 <a href="https://github.com/syslifters/HackTheBox-Reporting/">
     <img src="https://img.shields.io/github/stars/Syslifters/HackTheBox-Reporting?color=yellow&style=flat-square">
